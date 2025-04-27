@@ -2,6 +2,7 @@
 Bu projesinde; HTML5, CSS3 ve JavaScript kullanılarak geliştirdiğim ayrıca modern ve duyarlı (responsive) bir sitesi film sitesi projesidir. Farklı cihazlarda sorunsuz çalışan bir yapı oluşturulmuştur. CSS ile hover efektleri eklenerek görsellik artırılmış, JavaScript ile daha dinamik ve etkileşimli bir deneyim sağlanmıştır.
 <br/><br/>
 ## 📸 Proje Önizlemesi
+![logofilmsitesi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8bfecae0-8854-4564-903b-222194a73968)
 
 
 <br/><br/>
