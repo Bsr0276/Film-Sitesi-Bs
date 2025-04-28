@@ -4,7 +4,6 @@ Bu projesinde; HTML5, CSS3 ve JavaScript kullanılarak geliştirdiğim ayrıca m
 ## 📸 Proje Önizlemesi
 ![logofilmsitesi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8bfecae0-8854-4564-903b-222194a73968)
 
-
 <br/><br/>
 ## 🚀 Özellikler
 
